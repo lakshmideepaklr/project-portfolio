@@ -91,7 +91,7 @@ Creating dynamic and responsive web applications using modern tools.
 ---
 
 ### 🌟 About Me  
-I am a data scientist with a passion for building impactful projects.
+I am a Data Scientist with a passion for building impactful projects.
 ---
 
 ### 🤝 Connect with Me
